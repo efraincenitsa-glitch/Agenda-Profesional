@@ -1,0 +1,14 @@
+{
+  "name": "agenda-profesional-push",
+  "version": "1.0.0",
+  "description": "Backend para Agenda Profesional con Web Push",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "web-push": "^3.6.7"
+  }
+}
